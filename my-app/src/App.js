@@ -9,6 +9,7 @@ function App() {
     return (
       <div>
         <h2>Welcome to the University Clubs Dashboard!</h2>
+        <p>This Website is designed to help you navigate to all university resources from a single click and stay up to date with university events and timelines, no hustle of opening multiple tabs</p>
         <p>Use the sidebar to navigate to different sections.</p>
       </div>
     );
